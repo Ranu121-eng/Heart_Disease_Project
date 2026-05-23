@@ -30,3 +30,16 @@ The dataset contains patient-related medical information such as:
 - Built interactive visualizations and charts.
 - Designed a modern dark-theme dashboard layout.
 - Added filters and slicers for dynamic analysis.
+## Dashboard Features
+- KPI Cards for:
+  - Survival Rate
+  - Average Age
+  - Total Alive Patients
+  - Total Death Cases
+- Interactive Charts:
+  - Survival count by age group
+  - Average serum analysis
+  - Diabetes impact on survival
+  - Cancer impact on survival
+  - Gender-based filtering
+- Modern UI Design with responsive visuals.
