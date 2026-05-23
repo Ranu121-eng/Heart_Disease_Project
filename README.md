@@ -43,3 +43,10 @@ The dataset contains patient-related medical information such as:
   - Cancer impact on survival
   - Gender-based filtering
 - Modern UI Design with responsive visuals.
+## Project Insights
+- The survival rate of patients is approximately 67.89%.
+- The age group 51–70 years shows the highest number of surviving patients.
+- Patients with diabetes show noticeable variation in survival outcomes.
+- Serum levels differ significantly across different age groups.
+- Male and female patient distributions can be analyzed separately using filters.
+- Middle-aged and senior patients contribute to the majority of heart disease cases.
