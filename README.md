@@ -12,3 +12,13 @@ The dataset contains patient-related medical information such as:
 - Diabetes Status
 - Alive/Death Status
 - Health Indicators
+## Questions / KPIs
+- What is the overall survival rate of patients?
+- What is the average age of surviving patients?
+- Total number of alive and deceased patients?
+- Which age group has the highest survival count?
+- What is the relationship between diabetes and survival?
+- How does serum level vary across age groups?
+- Gender-wise patient distribution?
+- Which age group is most affected by heart disease?
+- Comparative analysis of alive vs death cases?
