@@ -50,3 +50,11 @@ The dataset contains patient-related medical information such as:
 - Serum levels differ significantly across different age groups.
 - Male and female patient distributions can be analyzed separately using filters.
 - Middle-aged and senior patients contribute to the majority of heart disease cases.
+## Final Conclusion
+The Heart Disease Analysis Dashboard provides meaningful insights into patient survival trends, diabetes impact, age-group analysis, and overall health conditions. The dashboard helps healthcare analysts and medical professionals monitor critical indicators efficiently and make informed decisions for better patient care and treatment planning.
+## Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
