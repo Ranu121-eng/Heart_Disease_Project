@@ -22,3 +22,11 @@ The dataset contains patient-related medical information such as:
 - Gender-wise patient distribution?
 - Which age group is most affected by heart disease?
 - Comparative analysis of alive vs death cases?
+## Process
+- Verified dataset for missing values and inconsistencies.
+- Cleaned and transformed data using Power Query.
+- Ensured proper data types and formatting.
+- Created calculated measures and KPIs using DAX.
+- Built interactive visualizations and charts.
+- Designed a modern dark-theme dashboard layout.
+- Added filters and slicers for dynamic analysis.
