@@ -16,6 +16,8 @@ Dataset Used
 - Gender-wise patient distribution?
 - Which age group is most affected by heart disease?
 - Comparative analysis of alive vs death cases?
+## Dashboard Interaction
+<a href="https://github.com/Ranu121-eng/Heart_Disease_Project/blob/main/Heart_Disease_Dashboard.png">View Dashboard</a>
 ## Process
 - Verified dataset for missing values and inconsistencies.
 - Cleaned and transformed data using Power Query.
@@ -37,6 +39,7 @@ Dataset Used
   - Cancer impact on survival
   - Gender-based filtering
 - Modern UI Design with responsive visuals.
+## Dashboard
 ## Project Insights
 - The survival rate of patients is approximately 67.89%.
 - The age group 51–70 years shows the highest number of surviving patients.
