@@ -4,14 +4,8 @@ An interactive Heart Disease Analysis Dashboard built using Microsoft Power BI t
 The objective of this project is to analyze heart disease patient data and build an interactive dashboard that helps understand patient health conditions, survival rates, age group impact, and key medical indicators. This dashboard enables healthcare professionals and analysts to identify patterns related to heart disease and support data-driven healthcare decisions.
 Dataset Used
 
-## Heart Disease Dataset
-The dataset contains patient-related medical information such as:
-- Age Group
-- Gender
-- Serum Levels
-- Diabetes Status
-- Alive/Death Status
-- Health Indicators
+## Dataset
+
 ## Questions / KPIs
 - What is the overall survival rate of patients?
 - What is the average age of surviving patients?
