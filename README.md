@@ -40,6 +40,8 @@ Dataset Used
   - Gender-based filtering
 - Modern UI Design with responsive visuals.
 ## Dashboard
+<img width="812" height="453" alt="Heart_Disease_Dashboard" src="https://github.com/user-attachments/assets/03ce589a-80a9-4c27-b41c-d9f69db8e2db" />
+
 ## Project Insights
 - The survival rate of patients is approximately 67.89%.
 - The age group 51–70 years shows the highest number of surviving patients.
